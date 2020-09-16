@@ -1,8 +1,8 @@
-=Wikin=
-
-== BLAPP ==
-    * [[Onboardinghoreri]]: Hur du skapar en integrationsnyckel för ett tomt företag
+= Wikin =
 
 
-== Annat ==
+== Linux ==
+ * [[lanksamling_linux.wiki Länksamling]] - Länkar till fiffiga och smidiga lösningar för linuxrelaterade klurigheter
 
+== Dev ==
+* [[lanksamling_blapp.wiki | Länksamling]] - Matnyttiga länkar för utveckling
