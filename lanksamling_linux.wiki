@@ -1,4 +1,0 @@
- = Länkar =
-
-== Komma igång med ny datamaskin ==
-* 
