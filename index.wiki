@@ -2,7 +2,7 @@
 
 
 == Linux ==
- * [[lanksamling_linux.wiki | Länksamling]] - Länkar till fiffiga och smidiga lösningar för linuxrelaterade klurigheter
+ * [[lanksamling_linux.wiki|Länksamling]] - Länkar till fiffiga och smidiga lösningar för linuxrelaterade klurigheter
 
 == Dev ==
-* [[lanksamling_dev.wiki | Länksamling]] - Matnyttiga länkar för utveckling
+* [[lanksamling_dev.wiki|Länksamling]] - Matnyttiga länkar för utveckling
