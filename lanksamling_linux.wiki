@@ -3,3 +3,8 @@
 
 == Komma igång med ny datamaskin ==
 * Dotfilsrepo - [[ https://www.atlassian.com/git/tutorials/dotfiles | Dotfiles - Atlassian ]]
+
+== Matnyttiga saker att installera ==
+* Kortfattade manpages - [[ https://tldr.sh/ | TLDR ]]
+* Reddit i terminalen - [[https://gitlab.com/ajak/tuir | TUIR]]
+* Resursövervakare - [[https://www.npmjs.com/package/vtop | VTOP]]
