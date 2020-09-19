@@ -1,0 +1,4 @@
+== Keymaps ==
+
+* [[https://github.com/qmk/qmk_firmware/blob/94c75462148d1b9b33c2a7787c93edeacfc6fab4/keyboards/handwired/ferris/keymaps/default/readme.md | Ferris]] - Splittat 34-knappars med många lager.
+* [[https://github.com/manna-harbour/qmk_firmware/blob/miryoku/users/manna-harbour_miryoku/miryoku.org | Miryoku]] - Splittat 36-knappars.

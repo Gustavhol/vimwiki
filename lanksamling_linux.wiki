@@ -2,9 +2,9 @@
 
 
 == Komma igång med ny datamaskin ==
-* Dotfilsrepo - [[ https://www.atlassian.com/git/tutorials/dotfiles | Dotfiles - Atlassian ]]
+* [[ https://www.atlassian.com/git/tutorials/dotfiles | Atlassian ]] - Hur du skapar och implementerar ett bare repo för dina dotfiler.
 
 == Matnyttiga saker att installera ==
-* Kortfattade manpages - [[ https://tldr.sh/ | TLDR ]]
-* Reddit i terminalen - [[https://gitlab.com/ajak/tuir | TUIR]]
-* Resursövervakare - [[https://www.npmjs.com/package/vtop | VTOP]]
+* [[ https://tldr.sh/ | TLDR ]] - Kortfattade manpages.
+* [[https://gitlab.com/ajak/tuir | TUIR]] - REddit i terminalen.
+* [[https://www.npmjs.com/package/vtop | VTOP]] - Resursövervakare med VIM-bindings.
