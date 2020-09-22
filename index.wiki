@@ -9,3 +9,4 @@
 
 == Tangentbord ==
 * [[Keymaps]] - Genomtänkta keymaps att hämta inspiration från
+* [[Verktyg]] - Fiffiga verktyg
