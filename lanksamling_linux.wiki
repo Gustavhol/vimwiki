@@ -8,3 +8,4 @@
 * [[ https://tldr.sh/ | TLDR ]] - Kortfattade manpages.
 * [[https://gitlab.com/ajak/tuir | TUIR]] - REddit i terminalen.
 * [[https://www.npmjs.com/package/vtop | VTOP]] - Resursövervakare med VIM-bindings.
+* [[https://magic-wormhole.readthedocs.io/en/latest/ | Wormhole ]] - P2P filöverföring i terminalen.

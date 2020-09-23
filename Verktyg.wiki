@@ -1,3 +1,3 @@
 == Tangentbord - Verktyg ==
 
-[[ https://github.com/qmk/qmk_firmware/tree/master/quantum/tools | EEPROM reset tool ]] - HEX-fil och instruktioner för att flasha om EEPROM på Atmega32u4
+[[https://github.com/qmk/qmk_firmware/tree/master/quantum/tools | EEPROM reset tool]] - HEX-fil och instruktioner för att flasha om EEPROM på Atmega32u4
