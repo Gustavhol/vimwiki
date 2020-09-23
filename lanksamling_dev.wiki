@@ -1,4 +1,4 @@
 = Länkar =
 
 == RxJS ==
-* [[ https://reactive.how/ | Reactive.how ]] - Enkla animationer som visar skillnaden mellan olika operatorer
+* [[https://reactive.how/ | Reactive.how]] - Enkla animationer som visar skillnaden mellan olika operatorer
