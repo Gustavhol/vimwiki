@@ -10,3 +10,7 @@
 == Tangentbord ==
 * [[Keymaps]] - Genomtänkta keymaps att hämta inspiration från
 * [[Verktyg]] - Fiffiga verktyg
+* [[Träning]] - Olika skrivträningssidor
+
+== Vimwiki ==
+* [[lanksamling_vimwiki|Länksamling]] - Vimwikilänkar i vimwiki

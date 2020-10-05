@@ -9,3 +9,6 @@
 * [[https://gitlab.com/ajak/tuir | TUIR]] - REddit i terminalen.
 * [[https://www.npmjs.com/package/vtop | VTOP]] - Resursövervakare med VIM-bindings.
 * [[https://magic-wormhole.readthedocs.io/en/latest/ | Wormhole]] - P2P filöverföring i terminalen.
+ 
+== Övriga resurser == 
+* [[https://github.com/pirate/bash-utils | Bash Utils]] - En skapligt omfattande samling smått och gott relaterat till bash
