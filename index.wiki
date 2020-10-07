@@ -3,6 +3,7 @@
 
 == Linux ==
 * [[lanksamling_linux.wiki|Länksamling]] - Länkar till fiffiga och smidiga lösningar för linuxrelaterade klurigheter
+* [[snippets_linux.wiki|Snippets]] - Lätta att glömma men för sällsynta för att ha som alias
 
 == Dev ==
 * [[lanksamling_dev.wiki|Länksamling]] - Matnyttiga länkar för utveckling
