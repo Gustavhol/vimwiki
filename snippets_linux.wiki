@@ -1,5 +1,5 @@
 ==Snippets==
 
- * Lägg till sökväg till $PATH i fish
+ * Lägg till sökväg till $PATH i fish - [[https://fishshell.com/docs/current/tutorial.html#path | Docs]]
  {{{set -U fish_user_paths /usr/local/bin $fish_user_paths}}}
 
