@@ -1,2 +1,4 @@
 == Länkar == 
 * [[https://www.typelit.io/ | Typelit]] - Här får du träna dig genom att citera klassiska litterära verk (på engelska)
+* [[https://monkeytype.com/ | Monkeytype]] - Snygg minimalistisk sida där du skriver slumpad engelsk tekst
+* [[https://www.keybr.com/ | Keybr]] - Teknikträning. Börjar med en liten uppsättning och ökar efter hand du förtjänar det
